@@ -29,4 +29,4 @@ We evaluated each model's performance using the R-squared metric and compared th
 ## Conclusion
 The advanced non-linear models, including LGBM, Random Forest, and XGBoost, outperformed the linear regression model in predicting bike sharing demand. These models provide better accuracy and are suitable for predicting complex relationships in the data.
 
-For a more detailed report, please refer to the attached [PDF] document.
+For a more detailed report, please refer to the attached [PDF](https://github.com/varshamoturi/Bike-Rental-Demand-Prediction/blob/main/Bike%20Rental%20Demand%20Prediction.pdf) document.
